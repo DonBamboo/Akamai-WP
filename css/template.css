@@ -1,0 +1,26 @@
+.logo {
+  background-color: red;
+  height: 40px;
+}
+
+.main-menu {
+  background-color: papayawhip;
+}
+
+.search {
+  background-color: yellow;
+}
+
+.main-menu ul li {
+  display: inline;
+}
+
+.footer-menu ul li {
+   display: inline;
+ }
+
+.footer-bar {
+   background-color: red;
+   height: 70px;
+ }
+
