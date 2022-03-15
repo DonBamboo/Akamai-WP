@@ -1,4 +1,4 @@
-  <footer class='footer-bar'>
+  <footer>
     <div class="container">
       <div class="row">
         <nav class="footer-menu col-xl-10 col-md-8 col-sm-8 col-6">
